@@ -1,9 +1,8 @@
 ## Bit Bot
----
 
 
 ## Ticker
----
+
 10/14/20 - jmcd
 > Starting work on ticker, developing basic features to gain familiarity with Binance IO stream and libraries and whatnot.
 > **Goals**:
